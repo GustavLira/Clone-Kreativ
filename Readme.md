@@ -12,7 +12,7 @@ O principal objetivo deste projeto é criar uma página de cadastro atraente e f
 
 - HTML: Para a estrutura da página.
 - CSS: Para o estilo e layout da página.
-- Git e GitHub: Para o controle de versão e hospedagem do código.
+- Git e GitHub: Para o controle de versão e hospedagem do código. 
 - Figma: Para a clonagem do design.
 - Vercel: Para implantação e hospedagem.
 
